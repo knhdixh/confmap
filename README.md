@@ -2,7 +2,7 @@
 
 Track researchers, see which conferences the senior people actually go to, how prestigious those venues are, and plan how to get there. Todoist-style UI (see [DESIGN.md](DESIGN.md)), plus an MCP endpoint so Claude Code or Codex can add researchers from a link.
 
-Live: https://confmap.knhdixh.com
+Live: https://confmap.knhdixh.com · auto-deploys from `main` via Workers Builds
 
 ![confmap venues view](docs/screenshot.png)
 
