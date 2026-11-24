@@ -1,0 +1,4 @@
+# Local-only settings for `wrangler dev`. Copy to .dev.vars (never committed).
+DEV_LOGIN=1
+# Free key from https://openalex.org/settings/api ($1/day of credit). Without it requests share a tiny per-IP budget.
+# OPENALEX_KEY=
